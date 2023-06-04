@@ -15,7 +15,7 @@ The ChromoParticleComposer is a Python module designed for composing particles i
 1. Import the `ChromoParticleComposer` class from the module:
 
 ```python
-from chromo_particle_composer import ChromoParticleComposer
+from ChromoParticleComposer import ChromoParticleComposer
 ```
 
 2. Create an instance of `ChromoParticleComposer` by specifying the number of particles and dimensions:
